@@ -1,4 +1,4 @@
-name: Build and Deploy
+name: Build and Deploy to GitHub Pages
 
 on:
   push:
@@ -6,7 +6,7 @@ on:
       - main  # Set this to the branch you use for production
 
 jobs:
-  build:
+  build-and-deploy:
     runs-on: ubuntu-latest
 
     steps:
@@ -23,6 +23,8 @@ jobs:
     - name: Build the site
       run: npm run build  # Replace or confirm this is your build command
 
-    # Add steps for deployment
-    - name: Deploy
-      run: echo "Add your deployment commands here"
+    - name: Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./public  # Set this to the directory where your build outputs the files to be deployed
