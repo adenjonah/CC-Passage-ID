@@ -1,6 +1,6 @@
 
 import React from 'react';
-import './App.css'; 
+import './App.css';
 import Main from "./pages/main";
 import Navbar from "./components/Navbar"
 import {
@@ -14,11 +14,12 @@ function App() {
   return (
     <div>
       <Navbar />
-      <Router>
+      <Router basename="/CC-Passage-ID">
         <Routes>
           <Route path="/" element={<Main />} />
         </Routes>
       </Router>
+
     </div>
   );
 }
