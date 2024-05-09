@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "title": "Journey to the Unknown",
+        "author": "Alex Mercer",
+        "context": "Exploring the depths of uncharted territories",
+        "quote": "The real voyage of discovery consists not in seeking new landscapes, but in having new eyes."
+    },
+    {
+        "id": 2,
+        "title": "Echoes of Time",
+        "author": "Samantha Reed",
+        "context": "Reflecting on historical events and their impact on modern society",
+        "quote": "History is a cyclic poem written by time upon the memories of man."
+    },
+    {
+        "id": 3,
+        "title": "The Art of Silence",
+        "author": "Michael Thompson",
+        "context": "Understanding the power and significance of silence in communication",
+        "quote": "Silence is a source of great strength."
+    }
+]
