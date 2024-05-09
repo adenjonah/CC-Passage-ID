@@ -1,0 +1,9 @@
+
+
+.Header {
+    height: 10vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #B6C8A9;
+}

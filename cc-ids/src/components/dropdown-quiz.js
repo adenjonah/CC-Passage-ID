@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import quotes from '../assets/quotes.json'
-
+import './dropdownquiz.css'
 
 function DropdownQuiz() {
     const [randomQuote, setRandomQuote] = useState("");
@@ -51,11 +51,16 @@ function DropdownQuiz() {
     };
 
     return (
-        <div>
-            <div className="Content">
-                <p>Current Score: {score}</p>  {/* Display the current score */}
+        <div className='container'>
+            <div className='scores'>
                 <p>High Score: {highScore}</p> {/* Display the high score */}
-                <p>"{randomQuote}"</p>  {/* Display the random quote */}
+                <p>Current Score: {score}</p>  {/* Display the current score */}
+            </div>
+
+
+            <div className="Content">
+
+                <p className='quote'>"{randomQuote}"</p>  {/* Display the random quote */}
                 <select onChange={handleSelectChange} value={selectedTitle}>
                     <option value="">Select a Title...</option> {/* Default option */}
                     {titles.map((title, index) => (

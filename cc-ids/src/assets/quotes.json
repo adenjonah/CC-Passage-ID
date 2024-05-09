@@ -1,23 +1,86 @@
 [
     {
         "id": 1,
-        "title": "Journey to the Unknown",
-        "author": "Alex Mercer",
-        "context": "Exploring the depths of uncharted territories",
-        "quote": "The real voyage of discovery consists not in seeking new landscapes, but in having new eyes."
+        "title": "Democracy in America",
+        "author": "Alexis de Tocqueville",
+        "context": "Political observations and theory",
+        "quote": "I do not know if the people of the United States would vote for superior men if they ran for office, but there can be no doubt that such men do not run."
     },
     {
         "id": 2,
-        "title": "Echoes of Time",
-        "author": "Samantha Reed",
-        "context": "Reflecting on historical events and their impact on modern society",
-        "quote": "History is a cyclic poem written by time upon the memories of man."
+        "title": "Groundwork of the Metaphysics of Morals",
+        "author": "Immanuel Kant",
+        "context": "Philosophical principles",
+        "quote": "Have the courage to use your own reason- That is the motto of enlightenment."
     },
     {
         "id": 3,
-        "title": "The Art of Silence",
-        "author": "Michael Thompson",
-        "context": "Understanding the power and significance of silence in communication",
-        "quote": "Silence is a source of great strength."
+        "title": "The Wealth of Nations",
+        "author": "Adam Smith",
+        "context": "Economic theory and practice",
+        "quote": "Labour was the first price, the original purchase money that was paid for all things. It was not by gold or by silver, but by labour, that all the wealth of the world was originally purchased; and its value, to those who possess it, and who want to exchange it for some new productions, is precisely equal to the quantity of labour which it can enable them to purchase or command."
+    },
+    {
+        "id": 4,
+        "title": "Reflections on the Revolution in France",
+        "author": "Edmund Burke",
+        "context": "Political critique and observations",
+        "quote": "You will smile here at the consistency of those democratists who, when they are not on their guard, treat the humbler part of the community with the greatest contempt, whilst, at the same time they pretend to make them the depositories of all power."
+    },
+    {
+        "id": 5,
+        "title": "A Vindication of the Rights of Woman",
+        "author": "Mary Wollstonecraft",
+        "context": "Feminism and human rights",
+        "quote": "My own sex, I hope, will excuse me, if I treat them like rational creatures, instead of flattering their fascinating graces, and viewing them as if they were in a state of perpetual childhood, unable to stand alone."
+    },
+    {
+        "id": 6,
+        "title": "On Liberty",
+        "author": "John Stuart Mill",
+        "context": "Philosophical discourse on freedom and society",
+        "quote": "The peculiar evil of silencing the expression of an opinion is, that it is robbing the human race; posterity as well as the existing generation; those who dissent from the opinion, still more than those who hold it. If the opinion is right, they are deprived of the opportunity of exchanging error for truth: if wrong, they lose, what is almost as great a benefit, the clearer perception and livelier impression of truth, produced by its collision with error."
+    },
+    {
+        "id": 7,
+        "title": "The Marx-Engels Reader",
+        "author": "Robert C. Tucker",
+        "context": "Philosophical and sociological analysis",
+        "quote": "Man's nature, he postulated, was to be a 'free conscious producer,' but so far he had not been able to express himself freely in productive activity. He had been driven to produce by need and greed, by a passion for accumulation which in the modern bourgeois age becomes accumulation of capital. His productive activity had always, therefore, been involuntary; it had been 'labour.'"
+    },
+    {
+        "id": 8,
+        "title": "On the Genealogy of Morals",
+        "author": "Friedrich Nietzsche",
+        "context": "Philosophical exploration of ethics and morality",
+        "quote": "Man, the bravest of animals, and the one most accustomed to suffering, does not repudiate suffering as such; he desires it, he even seeks it out, provided he is shown a meaning for it, a purpose of suffering. The meaninglessness of suffering, not suffering itself, was the curse that lay over mankind so far."
+    },
+    {
+        "id": 9,
+        "title": "The Souls of Black Folk",
+        "author": "W.E.B. Du Bois",
+        "context": "Sociological and historical analysis of African-American life",
+        "quote": "The South believed an educated Negro to be a dangerous Negro. And the South was not wholly wrong; for education among all kinds of men always has had, and always will have, an element of danger and revolution, of dissatisfaction and discontent. Nevertheless, men strive to know."
+    },
+    {
+        "id": 10,
+        "title": "The Origins of Totalitarianism",
+        "author": "Hannah Arendt",
+        "context": "Political theory on totalitarian regimes",
+        "quote": "Before mass leaders seize the power to fit reality to their lies, their propaganda is marked by its extreme contempt for facts as such, for in their opinion fact depends entirely on the power of man who can fabricate it."
+    },
+    {
+        "id": 11,
+        "title": "The Wretched of the Earth",
+        "author": "Frantz Fanon",
+        "context": "Political philosophy and decolonization theory",
+        "quote": "And it is clear that in the colonial countries the peasants alone are revolutionary, for they have nothing to lose and everything to gain. The starving peasant, outside the class system is the first among the exploited to discover that only violence pays. For him there is no compromise, no possible coming to terms; colonization and decolonization is simply a question of relative strength."
+    },
+    {
+        "id": 12,
+        "title": "Discipline and Punish: The Birth of the Prison",
+        "author": "Michel Foucault",
+        "context": "Philosophical study of modern disciplinary institutions and society",
+        "quote": "Surveillance is permanent in its effects, even if it is discontinuous in its action."
     }
 ]
